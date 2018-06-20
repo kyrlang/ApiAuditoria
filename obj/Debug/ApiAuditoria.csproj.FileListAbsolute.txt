@@ -1,0 +1,94 @@
+F:\Projetos\MicroServicos\ApiAuditoria\bin\roslyn\csc.exe
+F:\Projetos\MicroServicos\ApiAuditoria\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Projetos\MicroServicos\ApiAuditoria\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Projetos\MicroServicos\ApiAuditoria\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Projetos\MicroServicos\ApiAuditoria\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Projetos\MicroServicos\ApiAuditoria\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Projetos\MicroServicos\ApiAuditoria\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Projetos\MicroServicos\ApiAuditoria\bin\roslyn\System.Collections.Immutable.dll
+F:\Projetos\MicroServicos\ApiAuditoria\bin\roslyn\System.Reflection.Metadata.dll
+F:\Projetos\MicroServicos\ApiAuditoria\bin\roslyn\vbc.exe
+F:\Projetos\MicroServicos\ApiAuditoria\bin\roslyn\VBCSCompiler.exe
+F:\Projetos\MicroServicos\ApiAuditoria\bin\roslyn\VBCSCompiler.exe.config
+F:\Projetos\MicroServicos\ApiAuditoria\bin\ApiAuditoria.dll.config
+F:\Projetos\MicroServicos\ApiAuditoria\bin\ApiAuditoria.dll
+F:\Projetos\MicroServicos\ApiAuditoria\bin\ApiAuditoria.pdb
+F:\Projetos\MicroServicos\ApiAuditoria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Projetos\MicroServicos\ApiAuditoria\bin\Newtonsoft.Json.dll
+F:\Projetos\MicroServicos\ApiAuditoria\bin\System.Net.Http.Formatting.dll
+F:\Projetos\MicroServicos\ApiAuditoria\bin\System.Web.Http.dll
+F:\Projetos\MicroServicos\ApiAuditoria\bin\System.Web.Http.WebHost.dll
+F:\Projetos\MicroServicos\ApiAuditoria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Projetos\MicroServicos\ApiAuditoria\bin\Newtonsoft.Json.xml
+F:\Projetos\MicroServicos\ApiAuditoria\bin\System.Net.Http.Formatting.xml
+F:\Projetos\MicroServicos\ApiAuditoria\bin\System.Web.Http.xml
+F:\Projetos\MicroServicos\ApiAuditoria\bin\System.Web.Http.WebHost.xml
+F:\Projetos\MicroServicos\ApiAuditoria\obj\Debug\ApiAuditoria.csprojResolveAssemblyReference.cache
+F:\Projetos\MicroServicos\ApiAuditoria\obj\Debug\ApiAuditoria.dll
+F:\Projetos\MicroServicos\ApiAuditoria\obj\Debug\ApiAuditoria.pdb
+F:\Projetos\MicroServicos\ApiAuditoria\bin\Antlr3.Runtime.dll
+F:\Projetos\MicroServicos\ApiAuditoria\bin\Microsoft.Web.Infrastructure.dll
+F:\Projetos\MicroServicos\ApiAuditoria\bin\System.Web.Helpers.dll
+F:\Projetos\MicroServicos\ApiAuditoria\bin\System.Web.Mvc.dll
+F:\Projetos\MicroServicos\ApiAuditoria\bin\System.Web.Optimization.dll
+F:\Projetos\MicroServicos\ApiAuditoria\bin\System.Web.Razor.dll
+F:\Projetos\MicroServicos\ApiAuditoria\bin\System.Web.WebPages.Deployment.dll
+F:\Projetos\MicroServicos\ApiAuditoria\bin\System.Web.WebPages.dll
+F:\Projetos\MicroServicos\ApiAuditoria\bin\System.Web.WebPages.Razor.dll
+F:\Projetos\MicroServicos\ApiAuditoria\bin\WebGrease.dll
+F:\Projetos\MicroServicos\ApiAuditoria\bin\Antlr3.Runtime.pdb
+F:\Projetos\MicroServicos\ApiAuditoria\bin\System.Web.Helpers.xml
+F:\Projetos\MicroServicos\ApiAuditoria\bin\System.Web.Mvc.xml
+F:\Projetos\MicroServicos\ApiAuditoria\bin\System.Web.Optimization.xml
+F:\Projetos\MicroServicos\ApiAuditoria\bin\System.Web.Razor.xml
+F:\Projetos\MicroServicos\ApiAuditoria\bin\System.Web.WebPages.xml
+F:\Projetos\MicroServicos\ApiAuditoria\bin\System.Web.WebPages.Deployment.xml
+F:\Projetos\MicroServicos\ApiAuditoria\bin\System.Web.WebPages.Razor.xml
+F:\PUC - Pós\Backend\MicroServicos\ApiAuditoria\bin\roslyn\csc.exe
+F:\PUC - Pós\Backend\MicroServicos\ApiAuditoria\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\PUC - Pós\Backend\MicroServicos\ApiAuditoria\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\PUC - Pós\Backend\MicroServicos\ApiAuditoria\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\PUC - Pós\Backend\MicroServicos\ApiAuditoria\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\PUC - Pós\Backend\MicroServicos\ApiAuditoria\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\PUC - Pós\Backend\MicroServicos\ApiAuditoria\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\PUC - Pós\Backend\MicroServicos\ApiAuditoria\bin\roslyn\System.Collections.Immutable.dll
+F:\PUC - Pós\Backend\MicroServicos\ApiAuditoria\bin\roslyn\System.Reflection.Metadata.dll
+F:\PUC - Pós\Backend\MicroServicos\ApiAuditoria\bin\roslyn\vbc.exe
+F:\PUC - Pós\Backend\MicroServicos\ApiAuditoria\bin\roslyn\VBCSCompiler.exe
+F:\PUC - Pós\Backend\MicroServicos\ApiAuditoria\bin\roslyn\VBCSCompiler.exe.config
+F:\PUC - Pós\Backend\MicroServicos\ApiAuditoria\bin\ApiAuditoria.dll.config
+F:\PUC - Pós\Backend\MicroServicos\ApiAuditoria\bin\ApiAuditoria.dll
+F:\PUC - Pós\Backend\MicroServicos\ApiAuditoria\bin\ApiAuditoria.pdb
+F:\PUC - Pós\Backend\MicroServicos\ApiAuditoria\bin\Antlr3.Runtime.dll
+F:\PUC - Pós\Backend\MicroServicos\ApiAuditoria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\PUC - Pós\Backend\MicroServicos\ApiAuditoria\bin\Microsoft.Web.Infrastructure.dll
+F:\PUC - Pós\Backend\MicroServicos\ApiAuditoria\bin\Newtonsoft.Json.dll
+F:\PUC - Pós\Backend\MicroServicos\ApiAuditoria\bin\Swashbuckle.Core.dll
+F:\PUC - Pós\Backend\MicroServicos\ApiAuditoria\bin\System.Net.Http.Formatting.dll
+F:\PUC - Pós\Backend\MicroServicos\ApiAuditoria\bin\System.Web.Helpers.dll
+F:\PUC - Pós\Backend\MicroServicos\ApiAuditoria\bin\System.Web.Http.dll
+F:\PUC - Pós\Backend\MicroServicos\ApiAuditoria\bin\System.Web.Http.WebHost.dll
+F:\PUC - Pós\Backend\MicroServicos\ApiAuditoria\bin\System.Web.Mvc.dll
+F:\PUC - Pós\Backend\MicroServicos\ApiAuditoria\bin\System.Web.Optimization.dll
+F:\PUC - Pós\Backend\MicroServicos\ApiAuditoria\bin\System.Web.Razor.dll
+F:\PUC - Pós\Backend\MicroServicos\ApiAuditoria\bin\System.Web.WebPages.Deployment.dll
+F:\PUC - Pós\Backend\MicroServicos\ApiAuditoria\bin\System.Web.WebPages.dll
+F:\PUC - Pós\Backend\MicroServicos\ApiAuditoria\bin\System.Web.WebPages.Razor.dll
+F:\PUC - Pós\Backend\MicroServicos\ApiAuditoria\bin\WebActivatorEx.dll
+F:\PUC - Pós\Backend\MicroServicos\ApiAuditoria\bin\WebGrease.dll
+F:\PUC - Pós\Backend\MicroServicos\ApiAuditoria\bin\Antlr3.Runtime.pdb
+F:\PUC - Pós\Backend\MicroServicos\ApiAuditoria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\PUC - Pós\Backend\MicroServicos\ApiAuditoria\bin\Newtonsoft.Json.xml
+F:\PUC - Pós\Backend\MicroServicos\ApiAuditoria\bin\System.Web.Helpers.xml
+F:\PUC - Pós\Backend\MicroServicos\ApiAuditoria\bin\System.Web.Mvc.xml
+F:\PUC - Pós\Backend\MicroServicos\ApiAuditoria\bin\System.Web.Optimization.xml
+F:\PUC - Pós\Backend\MicroServicos\ApiAuditoria\bin\System.Web.Razor.xml
+F:\PUC - Pós\Backend\MicroServicos\ApiAuditoria\bin\System.Web.WebPages.xml
+F:\PUC - Pós\Backend\MicroServicos\ApiAuditoria\bin\System.Web.WebPages.Deployment.xml
+F:\PUC - Pós\Backend\MicroServicos\ApiAuditoria\bin\System.Web.WebPages.Razor.xml
+F:\PUC - Pós\Backend\MicroServicos\ApiAuditoria\bin\System.Net.Http.Formatting.xml
+F:\PUC - Pós\Backend\MicroServicos\ApiAuditoria\bin\System.Web.Http.xml
+F:\PUC - Pós\Backend\MicroServicos\ApiAuditoria\bin\System.Web.Http.WebHost.xml
+F:\PUC - Pós\Backend\MicroServicos\ApiAuditoria\obj\Debug\ApiAuditoria.csprojResolveAssemblyReference.cache
+F:\PUC - Pós\Backend\MicroServicos\ApiAuditoria\obj\Debug\ApiAuditoria.dll
+F:\PUC - Pós\Backend\MicroServicos\ApiAuditoria\obj\Debug\ApiAuditoria.pdb
